@@ -21,3 +21,9 @@
   max-width: 1100px;
   margin: 0 auto;
 }
+
+@media (max-width: 640px){
+  .pokemon_container{
+    margin: 0 0.8em;
+  }
+}

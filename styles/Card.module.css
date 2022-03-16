@@ -43,3 +43,11 @@
     background-color: #e33033;
     color: #fff;
 }
+
+
+@media (max-width: 640px){
+    .card{
+        width: 46%;
+    }
+}
+
